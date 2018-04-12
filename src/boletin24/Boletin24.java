@@ -18,6 +18,7 @@ public class Boletin24
     public static void main(String[] args)
     {
         // TODO code application logic here
+        Eventos evento=new Eventos();
     }
     
 }
